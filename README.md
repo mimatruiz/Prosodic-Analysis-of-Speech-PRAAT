@@ -79,6 +79,7 @@ To continue with the prosodic analysis, generate the graphs with the standardize
 
 Download, in the directory/folder where you want to work and save your files with the graphic representations, the following files (Excel and macro)
 APH_Automatic_Graphics.xlsm and APH_v3.crtx
+Or APH_APH_Gráficos_automático_durint and APH_v9.crtx for the last version, with standardizacion of duration.
 We must copy the macros, *.crtx file, to the Excel chart templates directory, for this, with Excel with any file open, to do this, select: Insert\Recommended charts\All charts\Templates\Manage Templates, see image below
 
  ![image](https://github.com/mimatruiz/Prosodic-Analysis-of-Speech-PRAAT/assets/136570865/84edd2fe-a269-42ca-927b-e153c8a33199)
