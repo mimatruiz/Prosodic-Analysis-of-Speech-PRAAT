@@ -1,3 +1,4 @@
+For any questions: miguelmateoruiz@letras.ufrj.br / miquel.mateo@gmail.com
 # Prosodic-Analysis-of-Speech-PRAAT
 1.Introduction
 
