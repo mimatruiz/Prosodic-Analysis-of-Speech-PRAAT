@@ -1,0 +1,5 @@
+Add menu command: "Objects", "Praat", "LFA_UB", "", 0,""
+Add menu command: "Objects", "Praat", "AMH_Extraccion", "LFA_UB", 1, "AMH_Extraccion.praat"
+Add menu command: "Objects", "Praat", "AMH_Estandarizacion", "LFA_UB", 1, "AMH_Estandarizacion.praat"
+Add menu command: "Objects", "Praat", "APH_Extraccion", "LFA_UB", 1, "APH_Extraccion.praat"
+Add menu command: "Objects", "Praat", "APH_Estandarizacion", "LFA_UB", 1, "APH_Estandarizacion.praat"
